@@ -1,0 +1,11 @@
+Package: org.thebigboss.llbflipswitch
+Name: LLB Flipswitch
+Pre-depends: cy+model.ipod (= 5.1) | cy+model.iphone (>= 5)
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 6.0), gsc.still-camera | gsc.front-facing-camera
+Conflicts: cy+model.iphone (>= 6)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle for Low light boost feature.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)

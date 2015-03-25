@@ -1,0 +1,8 @@
+#!/bin/bash
+
+chk=$(uname -m)
+
+if [[ "$chk" == iPod5* ]];then
+	rm -f /Library/MobileSubstrate/DynamicLibraries/LLBToggle.*
+fi
+

@@ -1,0 +1,1 @@
+{ Filter = { Classes = ( "AVCaptureDevice", "AVCaptureFigVideoDevice", "AVCaptureFigVideoDevice_FigRecorder", "AVCaptureDeviceFormat", "AVCaptureDeviceFormat_FigRecorder", "FigCaptureSourceFormat" ); }; }
